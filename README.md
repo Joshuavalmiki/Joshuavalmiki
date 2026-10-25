@@ -1,10 +1,6 @@
 # 🛡️ Joshua Valmiki | LOSERxTOBI
 
 <p align="center">
-  <img src="./profile-banner.png" alt="LOSERxTOBI cybersecurity banner" width="100%">
-</p>
-
-<p align="center">
   <b>Aspiring SOC Analyst L1 · Cybersecurity learner · Learning in public</b><br>
   Detect threats. Understand attacks. Build secure systems.
 </p>
